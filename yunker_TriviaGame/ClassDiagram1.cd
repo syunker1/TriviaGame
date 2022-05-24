@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="yunker_TriviaGame.Question_Bank">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEQAAAAABAAAAAEBAAAQAAAAAAAAAADA=</HashCode>
+      <FileName>Question_Bank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="yunker_TriviaGame.Question_Unit">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEQBAABEAQAAAgAAAAI=</HashCode>
+      <FileName>Question_Unit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="yunker_TriviaGame.Controller">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAABAAAAAAAAAAAAAAAAAAAAAAEgAAAAAAAAAA=</HashCode>
+      <FileName>Controller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
